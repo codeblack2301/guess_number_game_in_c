@@ -66,12 +66,3 @@ Sistema de pontuação
 👨‍💻 Autor
 
 Feito por Rafael (em aprendizado de C e desenvolvimento de jogos 🎮)
-
-Se quiser, posso deixar esse README ainda mais profissional com:
-
-badge do GitHub
-GIF do jogo rodando
-versão em inglês
-layout estilo “projeto de portfólio”
-
-Só me fala 👍
